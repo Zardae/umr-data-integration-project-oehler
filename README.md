@@ -26,5 +26,6 @@ integrated and cleaned data.
 
 ## Documentation
 
-All code documentation and instructions should be placed in this `README.md`;
-feel free to erase this intro text.
+- Preparation
+	- `scrape-walkthrough`: Used to scrape all relevant (and some less relevant) location information off Serebii.net (49 html sites)
+	
