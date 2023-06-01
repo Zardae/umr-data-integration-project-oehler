@@ -27,5 +27,9 @@ integrated and cleaned data.
 ## Documentation
 
 - Preparation
-	- `scrape-walkthrough`: Used to scrape all relevant (and some less relevant) location information off Serebii.net (49 html sites)
+  - `scrape-walkthrough`: Used to scrape all relevant (and some less relevant) location information off Serebii.net (49 html sites)
+- Integration
+  - `prepare_integrated_db`: Used to prepare the integrated database
+  - `html_processing`: Used to extract useful data from the scraped html files and transfer it into the integrated database
+  - `pbs_processing`: Used to transfer the data from the pbs (txt) files extracted from the Pokémon Essentials into the integrated database
 	
