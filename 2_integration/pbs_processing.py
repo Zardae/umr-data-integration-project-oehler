@@ -6,8 +6,13 @@ def process_pokemon():
     lines = file.readlines()
 
 
+def process_types():
+    file = open("../0_datasets/types.txt", "r")
+    lines = file.readlines()
+
+
 
 
 
 if __name__ == "__main__" :
-    process_pokemon()
+    process_types()
