@@ -32,4 +32,5 @@ integrated and cleaned data.
   - `prepare_integrated_db`: Used to prepare the integrated database
   - `html_processing`: Used to extract useful data from the scraped html files and transfer it into the integrated database
   - `pbs_processing`: Used to transfer the data from the pbs (txt) files extracted from the Pokémon Essentials into the integrated database
+  - `main_integration`: Integration brought together in one file
 	
